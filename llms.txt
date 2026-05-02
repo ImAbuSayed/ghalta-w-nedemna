@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit 983a74890a887094830f9755fa8d8188b6687b6f
+> يا نور عيني في سكون الليل
+> قلبي ينادي لك ولا يميل
+> نار الأشواق تحرق دمعي يسيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
